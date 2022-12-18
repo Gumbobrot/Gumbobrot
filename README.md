@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://cdn.discordapp.com/attachments/1025729094681366588/1053394297170436149/github-header-image.png" alt="my banner">
 
-I love animals and playing games.. also pretty active on <a href="https://s.team/p/gqmv-fhtj/bkjcpfgp">Steam</a> :D</p>
-so just a normal kid ig xD
+I love animals and playing games.. also pretty active on <a href="https://s.team/p/gqmv-fhtj/bkjcpfgp">Steam</a></p>
 
 ### skid alert
 call me a skid if you want, idc and yeah thats what i am I don't have that much experience
