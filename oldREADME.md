@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Jonas!
+# Hi there 👋, My name is ...!
 
 <img width="100%" src="https://cdn.discordapp.com/attachments/1025729094681366588/1053394297170436149/github-header-image.png" alt="my banner">
 
@@ -13,7 +13,7 @@ call me a skid if you want, idc and yeah thats what i am I don't have that much 
 <p>🙏 I'm looking for help with general coding</p>
 <p>🌱 I'm currently learning Python, JavaScript, C++, node.js</p>
 <p>💬 Ask me about Tools/Cheats/RAT's/Logger's/Hacking-Clients</p>
-<p>📫 How to reach me? zrexvc@proton.me</p>
+<p>📫 How to reach me? ...</p>
 <p>📰 I regularly write articles on <a href="https://discord.gg/FzN9CPfNfk">my Discord Server</a></p>
 <p>🤖 Most of my projects are also available at <a href="https://replit.com/@Dinosaurum">my Replit</a></p>
 <p>⚡ Fun Fact: I love eating lol</p>
