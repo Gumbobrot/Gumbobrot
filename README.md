@@ -1,4 +1,8 @@
 <p align=center>
+ basically js some weird kid thats tryna be a malware dev lol
+</p>
+  
+<p align=center>
   <a href="https://discord.com/users/916601585038131222"><img src="https://lanyard-profile-readme.vercel.app/api/916601585038131222" width=45%></a>
 </p>
 
