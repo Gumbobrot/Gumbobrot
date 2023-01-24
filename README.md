@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Gumbobrot"><img src="https://img.shields.io/github/followers/Gumbobrot?style=for-the-badge"></img></a>
   <a href="https://github.com/Gumbobrot"><img src="https://img.shields.io/github/stars/Gumbobrot?style=for-the-badge"></img></a>
-  <a href="https://discord.gg/k9vMcMzvHd"><img src="https://img.shields.io/website?down_message=discord.gg/k9vMcMzvHd%20is%20down%21&style=for-the-badge&up_message=discord.gg/k9vMcMzvHd%20is%20up%21&url=https%3A%2F%2Fdiscord.gg/k9vMcMzvHd"></img></a>
+  <a href="https://discord.gg/gqms5tajzr"><img src="https://img.shields.io/website?down_message=discord%20server%20is%20down%20:(%21&style=for-the-badge&up_message=Join%20our%20Discord%20:)&url=https%3A%2F%2Fdiscord.gg/gqms5tajzr"></img></a>
 </p>
 
 <p align="center">
