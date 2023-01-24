@@ -1,9 +1,10 @@
 <p align=center>
- basically js some weird kid thats tryna be a malware dev lol
+ basically just some kid whos having fun with coding :)
 </p>
   
 <p align=center>
   <a href="https://discord.com/users/916601585038131222"><img src="https://lanyard-profile-readme.vercel.app/api/916601585038131222" width=45%></a>
+  <a href="https://discord.com/users/1033787431482310756"><img src="https://lanyard-profile-readme.vercel.app/api/1033787431482310756" width=45%></a>
 </p>
 
 <p align="center">
