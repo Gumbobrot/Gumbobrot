@@ -3,8 +3,7 @@
 </p>
   
 <p align=center>
-  <a href="https://discord.com/users/916601585038131222"><img src="https://lanyard-profile-readme.vercel.app/api/916601585038131222?theme=dark&bg=9b7e7e&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width=45%></a>
-  <a href="https://discord.com/users/1033787431482310756"><img src="https://lanyard-profile-readme.vercel.app/api/1033787431482310756?theme=dark&bg=534582&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width=45%></a>
+  <a href="https://discord.com/users/1033787431482310756"><img src="https://lanyard-profile-readme.vercel.app/api/1075072806892621874?theme=dark&bg=023020&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width=45%></a>
 </p>
 
 <p align="center">
